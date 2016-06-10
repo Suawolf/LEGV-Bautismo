@@ -1,0 +1,30 @@
+body{
+  font-family: fantasy;
+}
+h1{
+  text-align: center;
+  font-family: fantasy;
+}
+#nombre{
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px ;
+  font-family: fantasy;
+  color: rgb(0, 0, 99);
+}
+.image{
+  margin-left: 25%;
+  max-width: 50%;
+  max-width: 50%;
+}
+#hora{
+  margin-left: 8%;
+  text-align: left;
+  font-size: 30px;
+}
+#lugar{
+  margin-left: 15%;
+  text-align: left;
+  font-size: 28px;
+  font-weight: bold;
+}
