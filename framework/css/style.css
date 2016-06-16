@@ -15,7 +15,6 @@ h1{
 .image{
   margin-left: 25%;
   max-width: 50%;
-  max-width: 50%;
 }
 #hora{
   margin-left: 8%;
@@ -27,4 +26,7 @@ h1{
   text-align: left;
   font-size: 28px;
   font-weight: bold;
+}
+#mapa{
+  margin-left: 10%;
 }
